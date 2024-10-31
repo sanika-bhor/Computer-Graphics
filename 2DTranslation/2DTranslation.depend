@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730390147 source:b:\be\cg\2dtranslation\main.cpp
+	<iostream>
+	<GL/glut.h>
+	<cmath>
+
