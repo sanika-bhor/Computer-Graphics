@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730391012 source:b:\be\cg\boundaryfill\main.cpp
+	<math.h>
+	<GL/glut.h>
+	<stdio.h>
+
