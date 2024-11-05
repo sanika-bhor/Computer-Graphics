@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730778726 source:b:\be\cg\practical\practicalno4\main.cpp
+	<iostream>
+	<GL/glut.h>
+	<cmath>
+
